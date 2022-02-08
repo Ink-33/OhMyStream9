@@ -1,4 +1,4 @@
-# Oh My CentOS Stream9
+# Oh My CentOS Stream 9
 
 哦，我的老伙计！你知道吗？`CentOS 8`在2021年12月31日~~完蛋啦！🎉🎉🎉~~
 还在用`CentOS 8`吗？为什么不换成`CentOS Stream 8`、`Rocky Linux 8`或者`AlmaLinux`呢？
@@ -192,7 +192,7 @@ sudo dnf reinstall -y *
 
 享受你的新系统！
 
-## License
+## Lincense
 
 [![](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)  
 OhMyStream9 由 [Ink33](https://github.com/Ink-33) 采用 [知识共享 署名-相同方式共享 4.0 国际 许可协议](http://creativecommons.org/licenses/by-sa/4.0/)进行许可。  
