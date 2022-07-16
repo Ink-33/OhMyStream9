@@ -101,8 +101,11 @@ rpm -q kernel && rpm -q kernel-devel && rpm -q kernel-core && rpm -q kernel-modu
 read -p "Are you sure(y/N)? " -n 1 -r
 if [[ $REPLY =~ ^[Yy]$ ]]
 then
-    echo "yes" 
-    sudo rpm -e `rpm -q kernel` `rpm -q kernel-devel` `rpm -q kernel-core` `rpm -q kernel-modules` --nodeps
+    echo "yes"
+    sudo rpm -e `rpm -q kernel` --nodeps
+    sudo rpm -e `rpm -q kernel-devel` --nodeps
+    sudo rpm -e `rpm -q kernel-core` --nodeps
+    sudo rpm -e `rpm -q kernel-modules` --nodeps
 fi
 
 ```
