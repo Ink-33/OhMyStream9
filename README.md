@@ -2,7 +2,7 @@
 
 CentOS 8 / CentOS Stream 8 升级 CentOS Stream 9 简明教程
 
-[中文](README.md) | English(WIP)
+[中文](README.md) | [English](README_EN.md)
 
 ---
 
