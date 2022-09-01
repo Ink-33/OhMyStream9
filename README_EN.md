@@ -212,7 +212,7 @@ OhMyStream9 by [Ink33](https://github.com/Ink-33) is licensed under a [Creative 
 
 ### Thanks
 
-Thanks to all the people who already contributed!
+Thanks to all the developers who already contributed!
 
 <a href="https://github.com/nonebot/nonebot2/graphs/contributors">
 <a href="https://github.com/Ink-33/OhMyStream9/graphs/contributors">
