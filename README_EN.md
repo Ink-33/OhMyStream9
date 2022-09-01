@@ -209,3 +209,12 @@ Enjoy your new system!
 OhMyStream9 由 [Ink33](https://github.com/Ink-33) 采用 [知识共享 署名-相同方式共享 4.0 国际 许可协议](http://creativecommons.org/licenses/by-sa/4.0/)进行许可。  
 
 OhMyStream9 by [Ink33](https://github.com/Ink-33) is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License.](http://creativecommons.org/licenses/by-sa/4.0/)
+
+### Thanks
+
+Thanks to all the people who already contributed!
+
+<a href="https://github.com/nonebot/nonebot2/graphs/contributors">
+<a href="https://github.com/Ink-33/OhMyStream9/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Ink-33/OhMyStream9" />
+</a>
