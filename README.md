@@ -2,11 +2,11 @@
 
 CentOS 8 / CentOS Stream 8 升级 CentOS Stream 9 简明教程
 
-[中文](README.md) | English(WIP)
+[中文](README.md) | [English](README_EN.md)
 
 ---
 
-哦，我的老伙计！你知道吗？`CentOS 8`在2021年12月31日~~完蛋啦！🎉🎉🎉~~
+哦，我的老伙计！你知道吗？`CentOS 8`在2021年12月31日完蛋啦！🎉🎉🎉  
 还在用`CentOS 8`吗？为什么不换成`CentOS Stream 8`、`Rocky Linux 8`或者`AlmaLinux`呢？
 
 等等！`CentOS Stream 9`已经发布了？官方源里面居然还有`Nodejs16`和`Golang1.17.5`？还有`kernel5.14`和`glic 2.34`？  
@@ -207,3 +207,12 @@ sudo dnf reinstall -y *
 OhMyStream9 由 [Ink33](https://github.com/Ink-33) 采用 [知识共享 署名-相同方式共享 4.0 国际 许可协议](http://creativecommons.org/licenses/by-sa/4.0/)进行许可。  
 
 OhMyStream9 by [Ink33](https://github.com/Ink-33) is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License.](http://creativecommons.org/licenses/by-sa/4.0/)
+
+### 鸣谢
+
+感谢以下开发者对 OhMyStream9 作出的贡献：
+
+<a href="https://github.com/nonebot/nonebot2/graphs/contributors">
+<a href="https://github.com/Ink-33/OhMyStream9/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Ink-33/OhMyStream9" />
+</a>
