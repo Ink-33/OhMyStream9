@@ -6,7 +6,7 @@ CentOS 8 / CentOS Stream 8 升级 CentOS Stream 9 简明教程
 
 ---
 
-哦，我的老伙计！你知道吗？`CentOS 8`在2021年12月31日~~完蛋啦！🎉🎉🎉~~
+哦，我的老伙计！你知道吗？`CentOS 8`在2021年12月31日完蛋啦！🎉🎉🎉  
 还在用`CentOS 8`吗？为什么不换成`CentOS Stream 8`、`Rocky Linux 8`或者`AlmaLinux`呢？
 
 等等！`CentOS Stream 9`已经发布了？官方源里面居然还有`Nodejs16`和`Golang1.17.5`？还有`kernel5.14`和`glic 2.34`？  
