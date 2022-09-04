@@ -6,22 +6,22 @@ A short tutorial about updating `CentOS 8` / `CentOS Stream 8` to `CentOS Stream
 
 ---
 
-Listen, dude! Did you know? In December 31st, 2021, `CentOS 8` ~~was finished! 🎉🎉🎉~~
+Listen, dude! Did you know? It was December 31st, 2021 that `CentOS 8` reached end of life!  🎉🎉🎉  
 Are you still using `CentOS 8`? Why not update to `CentOS Stream 8`, `Rocky Linux 8` or `AlmaLinux` ?
 
 Wait, don't you hear that `CentOS Stream 9` has already released? There are even `Nodejs16` , `Golang1.17.5`, `kernel5.14` and `glic 2.34` package indexes available!
 
 If you pursue new features and a `dnf` package manager, `CentOS Stream 9` is probably your second best choice! (The first one is still `Fedora`)
 
-Unfortunately my VPS provider doesn't provide `CentOS Stream 9` image, or even `CentOS Stream 8` image, so I have to use the outdated `CentOS 8` image, isn't that bad?  
+But my VPS provider doesn't provide a `CentOS Stream 9` image, or even a `CentOS Stream 8` image, so I have to use an outdated `CentOS 8` image, wouldn't that be bad?
 
-Don't worry, with the method provided in this article, you can also upgrade to `CentOS Stream 9` on `CentOS 8`, with all your data kept and no need to reinstall system!
+Don't worry, with the method provided in this article, you can also upgrade to `CentOS Stream 9` from `CentOS 8`, with all your data kept and not have to reinstall your system!
 
 ## How to use
 
-**WARNING**: Upgrading a large version may cause the software or even the system to not work properly, so please be careful!  
+**WARNING**: Upgrading a major version may cause the software or even the system to fail to operate properly, so please be careful! 
 
-**TIPS**: Please read the whole article before you start the operation. If you encounter a problem, you can open an `issue` and create a `pull request` for a better solution.
+**TIPS**: Please read the whole article before you start the operation. Fell free to open an `issue` when you encounter a problem. If you would like to share a better solution, please submit a `pull request` to help us improve the documention.
 
 ### Preparation
 
