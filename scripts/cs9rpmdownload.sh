@@ -2,7 +2,7 @@
 
 echo "Preparing to download RPMs"
 echo "Setting up wget..."
-sudo dnf install wget -y
+sudo dnf install curl wget -y
 
 echo "Creating directory ~/cs8to9/el9"
 mkdir -p ~/cs8to9/el9
@@ -11,7 +11,7 @@ mkdir -p ~/cs8to9/epel9
 
 echo "Downloading RPMs..."
 cd ~/cs8to9/epel9
-wget https://dl.fedoraproject.org/pub/epel/epel-release-latest-9.noarch.rpm
+curl -LO https://dl.fedoraproject.org/pub/epel/epel-release-latest-9.noarch.rpm
 wget https://dl.fedoraproject.org/pub/epel/epel-next-release-latest-9.noarch.rpm
 
 cd ~/cs8to9/el9
