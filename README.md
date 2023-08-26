@@ -63,7 +63,7 @@ sudo dnf distro-sync --allowerasing -y
 ``` sh
 
 echo "Preparing to download RPMs"
-echo "Setting up wget..."
+echo "Setting up curl,wget..."
 sudo dnf install curl wget -y
 
 echo "Creating directory ~/cs8to9/el9"
