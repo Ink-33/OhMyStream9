@@ -78,9 +78,9 @@ wget https://dl.fedoraproject.org/pub/epel/epel-release-latest-9.noarch.rpm
 wget https://dl.fedoraproject.org/pub/epel/epel-next-release-latest-9.noarch.rpm
 
 cd ~/cs8to9/el9
-wget http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/centos-stream-release-9.0-9.el9.noarch.rpm
-wget http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/centos-stream-repos-9.0-9.el9.noarch.rpm
-wget http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/centos-gpg-keys-9.0-9.el9.noarch.rpm
+wget http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/centos-stream-release-9.0-22.el9.noarch.rpm
+wget http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/centos-stream-repos-9.0-22.el9.noarch.rpm
+wget http://mirror.stream.centos.org/9-stream/BaseOS/x86_64/os/Packages/centos-gpg-keys-9.0-22.el9.noarch.rpm
 
 cd 
 
@@ -119,7 +119,7 @@ fi
 
 echo "Installing CentOS Stream 9 RPMs..."
 cd ~/cs8to9/el9
-sudo dnf install centos-stream-release-9.0-9.el9.noarch.rpm centos-stream-repos-9.0-9.el9.noarch.rpm centos-gpg-keys-9.0-9.el9.noarch.rpm -y
+sudo dnf install centos-stream-release-9.0-22.el9.noarch.rpm centos-stream-repos-9.0-22.el9.noarch.rpm centos-gpg-keys-9.0-22.el9.noarch.rpm -y
 
 echo "Installing EPEL 9 RPMs..."
 cd ~/cs8to9/epel9
