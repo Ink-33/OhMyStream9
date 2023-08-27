@@ -134,6 +134,8 @@ cat /etc/redhat-release
 
 你可以在`scripts`目录下找到`cs8to9.sh`，运行它，它会执行上述指令，自动升级`CentOS Stream 9`。
 
+上述指令完成后，末行输出应为`CentOS Stream release 9`。
+
 #### 4. 安装新内核
 
 ``` sh
@@ -173,7 +175,7 @@ uname -a
 
 ``` 
 
-内核版本为应为`5.14`
+内核版本应为`5.14`
 
 #### 5. 重建rescue镜像
 
